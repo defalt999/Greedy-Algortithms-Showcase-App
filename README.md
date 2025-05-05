@@ -20,7 +20,7 @@ A simple and interactive C# console application using [Spectre.Console](https://
 
 ## 📸 Demo
 
-
+![Demo ](https://github.com/defalt999/Greedy-Algortithms-Showcase-App/blob/master/show.png?raw=true)
 
 ## 🛠️ Setup
 
